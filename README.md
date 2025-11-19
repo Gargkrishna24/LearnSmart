@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 **LearnSmart** - Web Course Management Platform
 
 LearnSmart is an innovative web-based platform designed to simplify the process of learning, course management, and online education. With features like personalized learning experiences, interactive tools, and engaging content, LearnSmart empowers both students and educators. From one-on-one meetings to YouTube video recommendations, quizzes, and more – we've got it all!
