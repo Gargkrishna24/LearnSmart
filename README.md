@@ -213,7 +213,7 @@ Follow our journey and stay updated with new features:
 
 - **GitHub**: [@gargkrishna24](https://github.com/gargkrishna24)
 
-- **LinkedIn**: [Vibhu Dixit](https://www.linkedin.com/in/gargkrishna24/)
+- **LinkedIn**: [gargKrishna24](https://www.linkedin.com/in/gargkrishna24/)
 
 Thanks for checking out LearnSmart! We hope it enhances your learning experience! 🚀
 
